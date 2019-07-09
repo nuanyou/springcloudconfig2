@@ -1,2 +1,4 @@
-people
+people:
   name: wuqi
+test:
+  name: testusingconfig2
