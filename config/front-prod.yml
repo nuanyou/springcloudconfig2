@@ -1,5 +1,5 @@
 data:
-  env: config-eureka-dev-single
+  env: front-prod
   user:
-    username: eureka-client-user-single
+    username: front-prod
     password: 1291029102
